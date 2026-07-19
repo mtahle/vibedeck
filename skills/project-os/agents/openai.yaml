@@ -1,0 +1,4 @@
+interface:
+  display_name: "VibeDeck Project OS"
+  short_description: "Keep agentic projects aligned and auditable"
+  default_prompt: "Use $project-os to initialize and manage this project with VibeDeck's shared change-control workflow."
